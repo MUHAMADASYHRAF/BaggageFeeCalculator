@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- handle -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M42,34 L66,34 L66,44 L61,44 L61,39 L47,39 L47,44 L42,44 Z" />
+    <!-- suitcase body -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M34,44 L74,44 Q78,44 78,48 L78,72 Q78,76 74,76 L34,76 Q30,76 30,72 L30,48 Q30,44 34,44 Z" />
+    <!-- straps -->
+    <path android:fillColor="#F28C28" android:pathData="M42,44 L47,44 L47,76 L42,76 Z" />
+    <path android:fillColor="#F28C28" android:pathData="M61,44 L66,44 L66,76 L61,76 Z" />
+</vector>

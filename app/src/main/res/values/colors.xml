@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sky_primary">#0B3C5D</color>
+    <color name="sky_primary_dark">#062A42</color>
+    <color name="sky_accent">#F28C28</color>
+    <color name="sky_background">#EAF4FB</color>
+    <color name="sky_card">#FFFFFF</color>
+    <color name="sky_text">#1B2733</color>
+    <color name="ic_launcher_background">#0B3C5D</color>
+    <color name="white">#FFFFFF</color>
+</resources>
